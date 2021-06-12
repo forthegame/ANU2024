@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-12T13:15:53.432Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36 Edg/91.0.864.41" etag="n_SNnPBHBY53MCnbBed4" version="14.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-12T13:16:12.339Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36 Edg/91.0.864.41" etag="f0oM4ywGJ0gvwAKWycVA" version="14.7.0" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1550" dy="867" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -186,7 +186,7 @@
             <mxPoint x="940" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="p_ZNXW8uyvUL6qlNEA6d-69" value="Relationship" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="p_ZNXW8uyvUL6qlNEA6d-69" value="apply" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="160" y="680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="p_ZNXW8uyvUL6qlNEA6d-71" value="vaccine result" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
